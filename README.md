@@ -2,6 +2,8 @@ Nama: Alfian Nugraha
 NIM: 2609116084
 Kelas: C
 
+#DATA PRODUK
+
 Penjelasan: 
 
 1. Data produk – Menyimpan nama produk, harga, dan stok menggunakan `dictionary`.
